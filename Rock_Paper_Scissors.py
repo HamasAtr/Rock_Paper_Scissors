@@ -2,7 +2,7 @@ import random
 
 choices = ['rock', 'paper', 'scissors']
 randchoice = (random.choice(choices))
-print(randchoice)
+
 
 
 def play():
